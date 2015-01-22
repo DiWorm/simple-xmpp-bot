@@ -1,0 +1,7 @@
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\bin\Debug\simple_xmpp_bot.exe.config
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\bin\Debug\simple_xmpp_bot.exe
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\bin\Debug\simple_xmpp_bot.pdb
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\bin\Debug\agsXMPP.dll
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\obj\Debug\simple_xmpp_bot.csprojResolveAssemblyReference.cache
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\obj\Debug\simple_xmpp_bot.exe
+C:\Projects\simple_xmpp_bot\simple_xmpp_bot\obj\Debug\simple_xmpp_bot.pdb
