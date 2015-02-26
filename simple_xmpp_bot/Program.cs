@@ -108,7 +108,7 @@ namespace simple_xmpp_bot
             {
                 if (msg.Body.Contains(nick + ": "))
                 {
-                    Regex rgx = new Regex("^ " + nick + ": ");
+                    Regex rgx = new Regex("^" + nick + ": ");
                     string result = rgx.Replace(msg.Body, replacement);
 
                     if (imgr.IsMatch(SenderNickname + ": " + msg.Body))
